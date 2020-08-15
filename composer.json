@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "prawee\\behaviors\\": ""
+            "prawee\\behaviors\\": "src"
         }
     }
 }
