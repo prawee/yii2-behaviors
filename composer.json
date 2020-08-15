@@ -1,0 +1,21 @@
+{
+    "name": "prawee/yii2-behaviors",
+    "description": "The extends class for all behaviors classes",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","behaviors","upload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "prawee@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "prawee\\behaviors\\": ""
+        }
+    }
+}
